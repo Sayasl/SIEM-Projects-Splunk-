@@ -1,5 +1,6 @@
 ## 1. DNS Events Search:
 source="dns.log.gz" host="Sayed" sourcetype="dns"
+
 ## 2. After post extraction of key fields:
 index=* sourcetype=dns | regex _raw="(?i)\b(dns|domain|query|response|port 53)\b"
 
