@@ -1,4 +1,4 @@
-# Splunk SIEM Log Analysis Projects
+# Splunk SIEM Projects
 
 This repository showcases a diverse collection of projects dedicated to analyzing various log types using Splunk SIEM. Each project features detailed screenshots of executed queries, demonstrating the process of log analysis and the valuable insights gained from specific log data.
 
