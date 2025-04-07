@@ -9,3 +9,8 @@ This repository showcases a diverse collection of projects dedicated to analyzin
 3. [Inspecting HTTP Logs](https://github.com/Sayasl/Splunk-Projects/tree/main/HTTP%20Project): This project provides an engaging, analyzing HTTP (Hypertext Transfer Protocol) log files using Splunk SIEM. It covers everything from uploading sample log files and extracting relevant fields to analyzing HTTP request patterns, detecting anomalies, and effectively monitoring HTTP traffic.
 4. [Inspecting SMTP Logs](https://github.com/Sayasl/Splunk-Projects/tree/main/SMTP%20Project): This project offers a comprehensive and structured approach to analyzing SMTP (Simple Mail Transfer Protocol) log files using Splunk SIEM. Follow uploading sample log files, extracting key fields, analyzing email traffic patterns, detecting anomalies, and effectively monitoring SMTP activity.
 5. [Inspecting SSH Logs](https://github.com/Sayasl/Splunk-Projects/tree/main/SSH%20Project): This project offers an in-depth analyzing SSH (Secure Shell) log files with Splunk SIEM. Explore uploading sample log files, extracting essential fields, analyzing SSH activity patterns, detecting anomalies, and correlating SSH logs with other data sources for a holistic view.
+
+## Tools Used
+<img src="https://img.shields.io/badge/-VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" />
+<img src="https://img.shields.io/badge/-Windows%2011-0078D6?style=for-the-badge&logo=windows11&logoColor=white" />
+<img src="https://img.shields.io/badge/-Splunk-000000?style=for-the-badge&logo=Splunk&logoColor=white" />
